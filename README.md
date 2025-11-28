@@ -31,8 +31,8 @@ A VR escape room game developed in Unity for the Meta Quest 2, where players mus
 ### Controls
 - **Grip Button:** Grab and hold objects
 - **Trigger Button:** Interact with UI elements and buttons
-- **Joystick:** Teleport around the room
-- **Hand Tracking:** Natural hand gestures for interaction (optional)
+- **Joystick:** Walk around the room
+- **Hand Tracking:** Natural hand gestures for interaction
 
 ### Objective
 Explore the classroom, find clues, solve puzzles, and unlock the door to escape!
